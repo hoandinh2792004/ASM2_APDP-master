@@ -1,0 +1,56 @@
+[
+  {
+    "UserName": "admin",
+    "Pass": "123",
+    "ConfirmPass": null,
+    "Role": "Admin"
+  },
+  {
+    "UserName": "hieu",
+    "Pass": "123",
+    "ConfirmPass": null,
+    "Role": "Teacher"
+  },
+  {
+    "UserName": "tam",
+    "Pass": "123",
+    "ConfirmPass": null,
+    "Role": "Student"
+  },
+  {
+    "UserName": "long",
+    "Pass": "123",
+    "ConfirmPass": null,
+    "Role": "User"
+  },
+  {
+    "UserName": "bach",
+    "Pass": "123",
+    "ConfirmPass": null,
+    "Role": "Teacher"
+  },
+  {
+    "UserName": "nam",
+    "Pass": "123",
+    "ConfirmPass": null,
+    "Role": "Student"
+  },
+  {
+    "UserName": "trong",
+    "Pass": "123",
+    "ConfirmPass": "123",
+    "Role": "Student"
+  },
+  {
+    "UserName": "hoandzai",
+    "Pass": "123",
+    "ConfirmPass": "123",
+    "Role": "Student"
+  },
+  {
+    "UserName": "hungngul",
+    "Pass": "123",
+    "ConfirmPass": "123",
+    "Role": "Student"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Name": "Dinh Van Dong",
+    "DoB": "1999-10-11T00:00:00",
+    "Course": "Computing"
+  },
+  {
+    "Id": 2,
+    "Name": "Dinh Phu Hoan",
+    "DoB": "2004-01-22T00:00:00",
+    "Course": "Design"
+  }
+]

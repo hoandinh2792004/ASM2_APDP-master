@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 123,
+    "Name": "BI",
+    "Class": "IT0603",
+    "Major": "GD",
+    "Lecturer": "Hoandzai",
+    "Status": "Inactive"
+  },
+  {
+    "Id": 1,
+    "Name": "Design",
+    "Class": "IT0603",
+    "Major": "IT",
+    "Lecturer": "Nguyen Thanh Trieu",
+    "Status": "Active"
+  },
+  {
+    "Id": 2,
+    "Name": "Computing",
+    "Class": "IT0603",
+    "Major": "IT",
+    "Lecturer": "Nguyen Thanh Trieu",
+    "Status": "Active"
+  }
+]
